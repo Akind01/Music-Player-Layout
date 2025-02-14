@@ -1,0 +1,86 @@
+body{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    left: 486px;
+}
+.parentcont{
+    height: 662px;
+    width: 310px;
+    background-color: rgb(197, 15, 15);
+    border-radius: 30px;
+}
+.topnav{
+    height: 25px;
+    width: 132px;
+    background-color: rgb(214, 95, 95);
+    position: relative;
+    top: 35px;
+    left: 88px;
+    border-radius: 25px;
+}
+.cdcontainer{
+    height: 240px;
+    width: 265px;
+    background-color: rgb(214, 95, 95);
+    position: relative;
+    top:73px;
+    left: 20px;
+    border-radius: 25px;
+}
+.cd{
+    height: 145px;
+    width:  145px;
+    background-color: black;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-radius: 50%;
+}
+.cdofcd{
+    height: 55px;
+    width: 55px;
+    background-color: rgb(197, 8, 8);
+    border-radius: 50%;
+    position: relative;
+    top: 44px;
+    left: 44px;
+      
+}
+.cdofcd>h1{
+    color: white;
+    position: relative;
+    left: 23px;
+}
+
+.parentcont>h4{
+    color:white;
+    position: relative;
+    top: 73px;
+    left: 17px;
+}
+.parentcont>h6{
+    color:white;
+    position: relative;
+    top: 65px;
+    left: 17px;
+}
+
+.notch{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: relative;
+    bottom: 400px;
+    left:145px;
+    border-radius: 50%;
+}
+
+.metainfo{
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 100px;
+    right: 470px;
+}
